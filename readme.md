@@ -22,17 +22,14 @@
 # Ћоги
 
 ```
-git log
-``` - команда вывода логов работы с git
+git log``` - команда вывода логов работы с git
 
 ```
-git log --oneline
-``` - сокращенный лог
+git log --oneline``` - сокращенный лог
 
 # —татусы файлов
 
 ```mermaid
-
 graph LR;
   untracked -- "git add" --> staged;
   staged    -- "???"     --> tracked/comitted;
