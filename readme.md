@@ -7,4 +7,10 @@
     git commit -m 'ddddd'  
     git status  
     git remote add git@github.com:Bolevor/first-homework.git  
-    git push -u origin master  
+    git push -u origin master
+
+# Ќавигаци€ по коммитам
+
+## ’еш Ч идентификатор коммита	
+
+’еш Ч основной идентификатор коммита и позвол€ет узнать его автора, дату и содержимое закоммиченных файлов.
